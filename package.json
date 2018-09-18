@@ -1,7 +1,6 @@
 {
   "name": "natours",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node server.js"
@@ -15,5 +14,9 @@
   "bugs": {
     "url": "https://github.com/carlosscherer86/natours/issues"
   },
-  "homepage": "https://github.com/carlosscherer86/natours#readme"
+  "homepage": "https://github.com/carlosscherer86/natours#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
