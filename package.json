@@ -18,5 +18,8 @@
   "description": "",
   "dependencies": {
     "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.3"
   }
 }
